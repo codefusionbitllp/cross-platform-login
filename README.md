@@ -101,7 +101,7 @@ skip init --native-app --open-xcode --appid=com.yourcompany.CrossPlatformLogin c
 ### 3. Clone & Setup Existing Project
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/CrossPlatformLogin.git
+git clone https://github.com/codefusionbitllp/cross-platform-login.git
 cd CrossPlatformLogin
 
 # Resolve Swift package dependencies
